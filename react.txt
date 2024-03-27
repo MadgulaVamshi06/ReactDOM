@@ -1,0 +1,11 @@
+My reflection on the differences between React and traditional DOM manipulation methods:
+
+1)React follows a declarative approach where you describe how the UI should look based on the application's state. 
+
+2)Traditional DOM manipulation typically involves imperative programming, where you directly manipulate the DOM to achieve the desired UI changes.
+
+3)React comes with a rich ecosystem of tools and libraries for building, testing, and deploying applications.
+
+4)Traditional DOM manipulation often requires developers to rely on a patchwork of third-party libraries or write custom solutions for various tasks, which can be time-consuming and error-prone.
+
+Overall, React's way of building websites, with its simple approach, reusable components, and helpful tools, makes it a better choice for many developers compared to the older ways of directly manipulating the DOM
